@@ -19,9 +19,12 @@ Je nach Gerät wirst du nach einer Anmeldung gefragt. Gib Folgendes ein:
 3️⃣ Verbindung bestätigen  
 Falls dein Gerät zusätzliche Einstellungen verlangt:  
 
+
+Andorid Devices 
 EAP-Methode: PEAP  
 Innere Authentifizierung: MSCHAPv2  
-Zertifikat: Falls gefragt, „Keines“ oder „Systemzertifikate verwenden“ auswählen  
+Zertifikat: "Bei der ersten Verwendung als vertrauenswürdig einstufen" auswählen  
+
 Danach sollte die Verbindung stehen. 🎉  
 
 ### Probleme beim Verbinden?  
@@ -53,7 +56,8 @@ If your device asks for additional settings, use these:
 
 EAP Method: PEAP  
 Inner Authentication: MSCHAPv2  
-Certificate: If asked, select "None" or "Use system certificates"  
+Certificate: "Trust on first use" 
+
 That’s it! You should now be connected. 🎉
 
 ### Having Trouble Connecting?  
