@@ -8,7 +8,7 @@ Super! Deine Registrierung war erfolgreich. Jetzt fehlt nur noch die WLAN-Verbin
 1️⃣ WLAN-Netzwerk auswählen  
 Öffne die WLAN-Einstellungen auf deinem Gerät und wähle das Netzwerk:  
 
-📡 Netzwerkname (SSID): Community-Acht  
+📡 Netzwerkname (SSID): Community AchtBerlin 
 
 2️⃣ Deine Anmeldedaten eingeben  
 Je nach Gerät wirst du nach einer Anmeldung gefragt. Gib Folgendes ein:  
@@ -43,7 +43,7 @@ Great! You’ve successfully registered. Now, let’s get you connected to the W
 1️⃣ Select the WiFi Network  
 Open your device’s WiFi settings and choose the network:  
 
-📡 Network Name (SSID): Community-Acht  
+📡 Network Name (SSID): Community AchtBerlin  
 
 2️⃣ Enter Your Login Details  
 Depending on your device, you may be asked to log in. Enter the following:
